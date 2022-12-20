@@ -2,10 +2,7 @@
 
 void reset_to_98(int *n)
 {
-	int c = *n;
-	int *b;
-	*b = *n;
-	*b = c;
+	*n = 98;
 }
 
 int main(void)
