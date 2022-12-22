@@ -9,7 +9,7 @@
  * and uppercase
  */
 
-int main(void) //main function
+int main(void)
 {
 	char a = 'a';
 	char b = 'A';
