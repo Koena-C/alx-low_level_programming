@@ -8,6 +8,7 @@
  * To print alphabet in lowercase
  * and uppercase
  */
+
 int main(void)
 {
 	char a = 'a';
