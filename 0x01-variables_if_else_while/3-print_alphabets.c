@@ -5,7 +5,8 @@
  * main: Entry - Point
  *
  * Return: Always 0 (Success)
- * To print alphabet in lowercase and uppercase
+ * To print alphabet in lowercase
+ * and uppercase
  */
 int main(void)
 {
