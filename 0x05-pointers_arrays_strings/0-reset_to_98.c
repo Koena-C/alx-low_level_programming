@@ -5,9 +5,8 @@
  *
  * Return: Nothing
  *
- * Function to reset n to 98
- *
- * n to hold parameter
+ * reset_to_98: Function that takes a pointer to an int as parameter and reset the value n to 98
+ * @n: integer pointer
  */
 
 void reset_to_98(int *n)
