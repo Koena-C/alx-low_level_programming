@@ -1,4 +1,11 @@
 #include "main.h"
+
+/**
+ * strlen function that returns length of the string
+ * @s: char pointer
+ * Return: count
+ */
+
 int _strlen(char *s)
 {
 	int count = 0;
